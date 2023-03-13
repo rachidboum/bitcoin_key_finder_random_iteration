@@ -10,7 +10,7 @@ To run this program, you will need:
 •	bit and multiprocessing libraries
 You can install the necessary libraries using pip: 
 pip install bit multiprocessing 
-
+	
 ## Usage
 1.	Download the code and save it to your computer.
 2.	Save the list of Bitcoin addresses you want to search in a TXT file. One address per line.
