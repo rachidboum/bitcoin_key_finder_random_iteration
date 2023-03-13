@@ -18,7 +18,7 @@ pip install bit multiprocessing
 4.	Run the program by entering the following command:
 python bitcoin_key_finder.py 
 5.	The program will prompt you to enter the range of private keys you want to search. 
-6.	Enter the minimum and maximum values in decimal 1==115792089237316195423570985008687907852837564279074904382605163141518161494335.
+6.	Enter the minimum and maximum values in decimal 1==>115792089237316195423570985008687907852837564279074904382605163141518161494335.
 7.	The program will display an estimated time for completion and start searching for private keys. 
 8.	If a private key corresponding to one of the Bitcoin addresses is found, it will be saved to a file named CompressedWinner.txt or UncompressedWinner.txt, depending on the address type.
 9.	When the program finishes, it will log the total time taken for the search.
